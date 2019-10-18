@@ -2,7 +2,7 @@ class Student
     
     
     def hello
-    puts "hey there! I'm o excited to learn stuff."
+    puts "hey there! I'm so excited to learn stuff."
     end
     
     def raise_hand
